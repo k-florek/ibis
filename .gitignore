@@ -1,2 +1,3 @@
 test/*
 docker/*
+__pycache__/*
